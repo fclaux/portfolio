@@ -2,6 +2,7 @@ import Header from './components/Header'
 import Hero from './components/Hero'
 import About from './components/About'
 import Skills from './components/Skills'
+import SoftSkills from './components/SoftSkills'
 import Projects from './components/Projects'
 import Engagement from './components/Engagement'
 import Contact from './components/Contact'
@@ -26,6 +27,7 @@ function App() {
         <Hero />
         <About />
         <Skills />
+        <SoftSkills />
         <Projects />
         <Engagement />
         <Contact />
