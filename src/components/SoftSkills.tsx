@@ -34,10 +34,10 @@ export const SoftSkills = () => {
       className={`glass-panel px-8 py-14 transition-all duration-700 ${isVisible ? 'reveal-visible' : 'reveal-hidden'}`}
     >
       <div className="mb-12 flex flex-col gap-3">
-        <span className="text-sm font-semibold uppercase tracking-[0.25em] text-indigo-600 dark:text-indigo-400">
+        <span className="text-2xl font-semibold uppercase tracking-[0.25em] text-indigo-600 dark:text-indigo-400">
           Savoir-être
         </span>
-        <h2 className="text-3xl font-bold tracking-tight text-slate-900 dark:text-white">
+        <h2 className="text-2xl font-bold tracking-tight text-slate-900 dark:text-white">
           Au-delà du code
         </h2>
       </div>

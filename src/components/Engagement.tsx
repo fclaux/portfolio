@@ -14,10 +14,10 @@ export const Engagement = () => {
 
   <div className="relative z-10 grid gap-10 md:grid-cols-[1.2fr_1fr] md:items-center">
         <div className="flex flex-col gap-4 text-slate-800 dark:text-slate-200">
-          <span className="text-sm font-semibold uppercase tracking-[0.25em] text-sky-600 dark:text-sky-400">
+          <span className="text-2xl font-semibold uppercase tracking-[0.25em] text-sky-600 dark:text-sky-400">
             Engagement associatif
           </span>
-          <h2 className="text-3xl font-bold tracking-tight text-slate-900 dark:text-white">
+          <h2 className="text-2xl font-bold tracking-tight text-slate-900 dark:text-white">
             Membre actif de mon club de Jiu-Jitsu Brésilien
           </h2>
           <p className="leading-relaxed text-slate-700 dark:text-slate-300">

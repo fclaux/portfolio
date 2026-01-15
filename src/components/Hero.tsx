@@ -70,7 +70,7 @@ export const Hero = () => {
         <div className="flex h-full w-full flex-col items-center justify-center rounded-[24px] bg-slate-900/60 text-white backdrop-blur-xl">
           <span className="text-sm uppercase tracking-[0.35em] text-slate-400">Florian</span>
           <span className="mt-2 text-5xl font-black tracking-tight">FC</span>
-          <span className="mt-4 text-xs font-semibold uppercase tracking-[0.3em] text-slate-500">
+          <span className="mt-4 text-xs font-semibold uppercase tracking-[0.3em] text-slate-500 text-center">
             Passion. Rigueur. Impact.
           </span>
         </div>
