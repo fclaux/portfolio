@@ -15,8 +15,8 @@ export const projects: Project[] = [
     description:
       'Planificateur de repas collaboratif qui simplifie la gestion des menus et des courses pour les colocations et familles.',
     tags: ['React', 'TypeScript', 'Tailwind CSS', 'Supabase'],
-    liveUrl: 'https://example.com/free-go',
-    repoUrl: 'https://github.com/florianclaux',
+    liveUrl: '',
+    repoUrl: 'https://github.com/Hashual/planificateur_familial',
     badge: 'Projet collaboratif',
     gradientFrom: 'from-sky-400/70',
     gradientTo: 'to-indigo-500/60',
@@ -48,8 +48,8 @@ export const projects: Project[] = [
     description:
       'Site vitrine moderne qui présente mes projets phares, mon expertise et mes engagements associatifs.',
     tags: ['React', 'Tailwind CSS', 'Vite'],
-    liveUrl: 'https://example.com/portfolio',
-    repoUrl: 'https://github.com/florianclaux',
+    liveUrl: 'https://fclaux.github.io/portfolio',
+    repoUrl: 'https://github.com/fclaux/portfolio',
     badge: 'Design system',
     gradientFrom: 'from-rose-400/70',
     gradientTo: 'to-purple-500/60',

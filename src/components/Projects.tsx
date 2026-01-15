@@ -58,6 +58,7 @@ export const Projects = () => {
                 ))}
               </div>
               <div className="mt-auto flex items-center gap-3 text-sm font-semibold">
+                {!project.liveUrl ? null : (
                 <a
                   href={project.liveUrl}
                   target="_blank"
@@ -67,6 +68,7 @@ export const Projects = () => {
                   Démo live
                   <span aria-hidden={true}>↗</span>
                 </a>
+                )}
                 <a
                   href={project.repoUrl}
                   target="_blank"
